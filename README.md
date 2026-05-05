@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/assets/images/rating_screen.png)
-![](./src/assets/images/thank-you-screen.png)
+![](./assets/images/rating_screen.png)
+![](./assets/images/thank-you-screen.png)
 ### Links
 
 - Solution URL: [Interactive rating component repo](https://github.com/theHalfBloodStackMaster/Interactive-rating-component-challenge)
